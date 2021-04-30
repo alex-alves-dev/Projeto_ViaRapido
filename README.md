@@ -1,4 +1,4 @@
-Projeto Via Rapido ====================
+# Projeto Via Rapido  💻
 Página para cliente, CPS (Centro Paula Sousa).
-Usado HTML e CSS.
-# Projeto_ViaRapido
+
+- Usado HTML e CSS.
